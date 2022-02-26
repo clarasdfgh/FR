@@ -3,3 +3,5 @@
 
 Contenido de la asignatura fundamentos de Redes del GII de la Universidad de Granada
 
+Prácticas en colaboración con [@leirereqgar](https://github.com/leirereqgar/)
+
